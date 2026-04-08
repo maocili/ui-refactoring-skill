@@ -1,0 +1,4 @@
+interface:
+  display_name: "UI Refactoring"
+  short_description: "Refactor UI code to align with design systems"
+  default_prompt: "Use $ui-refactoring to refactor UI toward design alignment; ask polish level before making changes."
